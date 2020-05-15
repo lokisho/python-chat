@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "offline": "^0.0.1",
+    "serverless": "^1.67.3",
+    "serverless-offline": "^6.1.4"
+  },
+  "devDependencies": {
+    "serverless-python-requirements": "^5.1.0"
+  }
+}
